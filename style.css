@@ -1,0 +1,21 @@
+.Dark {
+    background-color: black;
+    color: white;
+}
+
+.Light {
+    background-color: white;
+    color: black
+}
+
+p {
+    padding: 20px;
+}
+
+body {
+    height: 100%;
+    display: grid;
+  }
+  .center-me {
+    margin: auto;
+  }
