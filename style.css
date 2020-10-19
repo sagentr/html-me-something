@@ -25,7 +25,6 @@ html {
     display: block;
     width: 50%;
     height: 330 px;
-   
     border-radius: 25 px;
   }
   
@@ -60,7 +59,7 @@ html {
   }
 
 p {
-  text-align: center;
+  text-align: left;
   font-family: 'Playfair Display', serif;
   font-size: medium;  
   padding: 20px;
