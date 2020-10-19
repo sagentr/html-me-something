@@ -14,7 +14,7 @@ html {
 
 .container {
     position: relative;
-    width: 50%;
+    width: 100%;
     align-content: center;
   }
   
@@ -59,7 +59,7 @@ html {
   }
 
 p {
-  text-align: left;
+  text-align: center;
   font-family: 'Playfair Display', serif;
   font-size: medium;  
   padding: 20px;
